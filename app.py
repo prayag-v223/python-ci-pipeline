@@ -18,7 +18,7 @@ def divide(a, b):
 
 
 if __name__ == "__main__":
-    print("Python CI Pipeline Demo")
+    print("Python CI Pipeline Demo - Version 2")
     print("2 + 3 =", add(2, 3))
     print("10 - 4 =", subtract(10, 4))
     print("3 * 4 =", multiply(3, 4))
